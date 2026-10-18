@@ -4,6 +4,10 @@
     "description": "Recomendacao de filmes com TensorFlow.js e ChromaDB",
     "type": "module",
     "scripts": {
-        "prepare-data": "node scripts/prepare-data.js"
+        "prepare-data": "node scripts/prepare-data.js",
+        "start": "browser-sync start --server --watch --port 3000"
+    },
+    "devDependencies": {
+        "browser-sync": "^3.0.4"
     }
 }
