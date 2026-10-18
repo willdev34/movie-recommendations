@@ -5,14 +5,26 @@
     <title>Recomendacao de Filmes</title>
     <style>
         body { font-family: sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; }
-        button { padding: .6rem 1.2rem; font-size: 1rem; cursor: pointer; }
-        pre { background: #f4f4f4; padding: 1rem; min-height: 200px; white-space: pre-wrap; }
+        button, select { padding: .6rem 1rem; font-size: 1rem; }
+        button { cursor: pointer; }
+        pre { background: #f4f4f4; padding: 1rem; min-height: 80px; white-space: pre-wrap; }
+        .row { display: flex; gap: .5rem; align-items: center; margin-bottom: 1rem; }
     </style>
 </head>
 <body>
     <h1>Recomendacao de Filmes</h1>
+
+    <h2>1. Treinar a rede</h2>
     <button id="train">Treinar modelo</button>
     <pre id="log"></pre>
+
+    <h2>2. Recomendar</h2>
+    <div class="row">
+        <select id="user"></select>
+        <button id="recommend" disabled>Recomendar</button>
+    </div>
+    <pre id="result">Treine o modelo primeiro.</pre>
+
     <script type="module" src="src/main.js"></script>
 </body>
 </html>

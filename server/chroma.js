@@ -26,3 +26,8 @@ export async function resetCollection(name) {
         configuration: { hnsw: { space: 'cosine' } }
     });
 }
+
+// Abre uma colecao que ja existe (criada pelo npm run index-vectors).
+export async function openCollection(name) {
+    return client.getOrCreateCollection({ name, embeddingFunction: null });
+}
