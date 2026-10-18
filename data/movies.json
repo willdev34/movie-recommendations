@@ -1,0 +1,3585 @@
+[
+  {
+    "id": 1,
+    "title": "Toy Story",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Fantasy"
+    ],
+    "ratingCount": 215,
+    "avgRating": 3.92
+  },
+  {
+    "id": 2,
+    "title": "Jumanji",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Children",
+      "Fantasy"
+    ],
+    "ratingCount": 110,
+    "avgRating": 3.43
+  },
+  {
+    "id": 6,
+    "title": "Heat",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 102,
+    "avgRating": 3.95
+  },
+  {
+    "id": 10,
+    "title": "GoldenEye",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "ratingCount": 132,
+    "avgRating": 3.5
+  },
+  {
+    "id": 11,
+    "title": "American President, The",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 70,
+    "avgRating": 3.67
+  },
+  {
+    "id": 16,
+    "title": "Casino",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 82,
+    "avgRating": 3.93
+  },
+  {
+    "id": 17,
+    "title": "Sense and Sensibility",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 67,
+    "avgRating": 3.78
+  },
+  {
+    "id": 19,
+    "title": "Ace Ventura: When Nature Calls",
+    "year": 1995,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 88,
+    "avgRating": 2.73
+  },
+  {
+    "id": 21,
+    "title": "Get Shorty",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 89,
+    "avgRating": 3.49
+  },
+  {
+    "id": 25,
+    "title": "Leaving Las Vegas",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 76,
+    "avgRating": 3.63
+  },
+  {
+    "id": 32,
+    "title": "Twelve Monkeys (a.k.a. 12 Monkeys)",
+    "year": 1995,
+    "genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 177,
+    "avgRating": 3.98
+  },
+  {
+    "id": 34,
+    "title": "Babe",
+    "year": 1995,
+    "genres": [
+      "Children",
+      "Drama"
+    ],
+    "ratingCount": 128,
+    "avgRating": 3.65
+  },
+  {
+    "id": 36,
+    "title": "Dead Man Walking",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 67,
+    "avgRating": 3.84
+  },
+  {
+    "id": 39,
+    "title": "Clueless",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "ratingCount": 104,
+    "avgRating": 3.29
+  },
+  {
+    "id": 47,
+    "title": "Seven (a.k.a. Se7en)",
+    "year": 1995,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 203,
+    "avgRating": 3.98
+  },
+  {
+    "id": 48,
+    "title": "Pocahontas",
+    "year": 1995,
+    "genres": [
+      "Animation",
+      "Children",
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "ratingCount": 68,
+    "avgRating": 3.15
+  },
+  {
+    "id": 50,
+    "title": "Usual Suspects, The",
+    "year": 1995,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 204,
+    "avgRating": 4.24
+  },
+  {
+    "id": 62,
+    "title": "Mr. Holland's Opus",
+    "year": 1995,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 80,
+    "avgRating": 3.71
+  },
+  {
+    "id": 95,
+    "title": "Broken Arrow",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "ratingCount": 84,
+    "avgRating": 3.02
+  },
+  {
+    "id": 104,
+    "title": "Happy Gilmore",
+    "year": 1996,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 99,
+    "avgRating": 3.44
+  },
+  {
+    "id": 110,
+    "title": "Braveheart",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "ratingCount": 237,
+    "avgRating": 4.03
+  },
+  {
+    "id": 111,
+    "title": "Taxi Driver",
+    "year": 1976,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 104,
+    "avgRating": 4.11
+  },
+  {
+    "id": 141,
+    "title": "Birdcage, The",
+    "year": 1996,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 86,
+    "avgRating": 3.49
+  },
+  {
+    "id": 150,
+    "title": "Apollo 13",
+    "year": 1995,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "IMAX"
+    ],
+    "ratingCount": 201,
+    "avgRating": 3.85
+  },
+  {
+    "id": 153,
+    "title": "Batman Forever",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "ratingCount": 137,
+    "avgRating": 2.92
+  },
+  {
+    "id": 161,
+    "title": "Crimson Tide",
+    "year": 1995,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ],
+    "ratingCount": 103,
+    "avgRating": 3.64
+  },
+  {
+    "id": 163,
+    "title": "Desperado",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Romance",
+      "Western"
+    ],
+    "ratingCount": 66,
+    "avgRating": 3.56
+  },
+  {
+    "id": 165,
+    "title": "Die Hard: With a Vengeance",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 144,
+    "avgRating": 3.56
+  },
+  {
+    "id": 185,
+    "title": "Net, The",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 112,
+    "avgRating": 3.04
+  },
+  {
+    "id": 208,
+    "title": "Waterworld",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "ratingCount": 115,
+    "avgRating": 2.91
+  },
+  {
+    "id": 223,
+    "title": "Clerks",
+    "year": 1994,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 104,
+    "avgRating": 3.86
+  },
+  {
+    "id": 231,
+    "title": "Dumb & Dumber (Dumb and Dumber)",
+    "year": 1994,
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "ratingCount": 133,
+    "avgRating": 3.06
+  },
+  {
+    "id": 235,
+    "title": "Ed Wood",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "ratingCount": 70,
+    "avgRating": 3.68
+  },
+  {
+    "id": 253,
+    "title": "Interview with the Vampire: The Vampire Chronicles",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "ratingCount": 109,
+    "avgRating": 3.46
+  },
+  {
+    "id": 260,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "year": 1977,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "ratingCount": 251,
+    "avgRating": 4.23
+  },
+  {
+    "id": 266,
+    "title": "Legends of the Fall",
+    "year": 1994,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War",
+      "Western"
+    ],
+    "ratingCount": 68,
+    "avgRating": 3.4
+  },
+  {
+    "id": 288,
+    "title": "Natural Born Killers",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 92,
+    "avgRating": 3.23
+  },
+  {
+    "id": 292,
+    "title": "Outbreak",
+    "year": 1995,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 101,
+    "avgRating": 3.43
+  },
+  {
+    "id": 293,
+    "title": "Léon: The Professional (a.k.a. The Professional) (Léon)",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 133,
+    "avgRating": 4.02
+  },
+  {
+    "id": 296,
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 307,
+    "avgRating": 4.2
+  },
+  {
+    "id": 300,
+    "title": "Quiz Show",
+    "year": 1994,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 81,
+    "avgRating": 3.52
+  },
+  {
+    "id": 316,
+    "title": "Stargate",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "ratingCount": 140,
+    "avgRating": 3.38
+  },
+  {
+    "id": 317,
+    "title": "Santa Clause, The",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "ratingCount": 81,
+    "avgRating": 3.2
+  },
+  {
+    "id": 318,
+    "title": "Shawshank Redemption, The",
+    "year": 1994,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 317,
+    "avgRating": 4.43
+  },
+  {
+    "id": 329,
+    "title": "Star Trek: Generations",
+    "year": 1994,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "ratingCount": 108,
+    "avgRating": 3.39
+  },
+  {
+    "id": 337,
+    "title": "What's Eating Gilbert Grape",
+    "year": 1993,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 77,
+    "avgRating": 3.77
+  },
+  {
+    "id": 339,
+    "title": "While You Were Sleeping",
+    "year": 1995,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "ratingCount": 98,
+    "avgRating": 3.47
+  },
+  {
+    "id": 344,
+    "title": "Ace Ventura: Pet Detective",
+    "year": 1994,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 161,
+    "avgRating": 3.04
+  },
+  {
+    "id": 349,
+    "title": "Clear and Present Danger",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 110,
+    "avgRating": 3.6
+  },
+  {
+    "id": 353,
+    "title": "Crow, The",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Crime",
+      "Fantasy",
+      "Thriller"
+    ],
+    "ratingCount": 64,
+    "avgRating": 3.61
+  },
+  {
+    "id": 356,
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "ratingCount": 329,
+    "avgRating": 4.16
+  },
+  {
+    "id": 357,
+    "title": "Four Weddings and a Funeral",
+    "year": 1994,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "ratingCount": 103,
+    "avgRating": 3.52
+  },
+  {
+    "id": 364,
+    "title": "Lion King, The",
+    "year": 1994,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Drama",
+      "Musical",
+      "IMAX"
+    ],
+    "ratingCount": 172,
+    "avgRating": 3.94
+  },
+  {
+    "id": 367,
+    "title": "Mask, The",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Fantasy"
+    ],
+    "ratingCount": 157,
+    "avgRating": 3.18
+  },
+  {
+    "id": 368,
+    "title": "Maverick",
+    "year": 1994,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Western"
+    ],
+    "ratingCount": 74,
+    "avgRating": 3.5
+  },
+  {
+    "id": 377,
+    "title": "Speed",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Romance",
+      "Thriller"
+    ],
+    "ratingCount": 171,
+    "avgRating": 3.53
+  },
+  {
+    "id": 380,
+    "title": "True Lies",
+    "year": 1994,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Romance",
+      "Thriller"
+    ],
+    "ratingCount": 178,
+    "avgRating": 3.5
+  },
+  {
+    "id": 410,
+    "title": "Addams Family Values",
+    "year": 1993,
+    "genres": [
+      "Children",
+      "Comedy",
+      "Fantasy"
+    ],
+    "ratingCount": 84,
+    "avgRating": 3.1
+  },
+  {
+    "id": 434,
+    "title": "Cliffhanger",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "ratingCount": 101,
+    "avgRating": 3.03
+  },
+  {
+    "id": 440,
+    "title": "Dave",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "ratingCount": 76,
+    "avgRating": 3.55
+  },
+  {
+    "id": 442,
+    "title": "Demolition Man",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "ratingCount": 81,
+    "avgRating": 3.09
+  },
+  {
+    "id": 454,
+    "title": "Firm, The",
+    "year": 1993,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 101,
+    "avgRating": 3.53
+  },
+  {
+    "id": 457,
+    "title": "Fugitive, The",
+    "year": 1993,
+    "genres": [
+      "Thriller"
+    ],
+    "ratingCount": 190,
+    "avgRating": 3.99
+  },
+  {
+    "id": 474,
+    "title": "In the Line of Fire",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "ratingCount": 70,
+    "avgRating": 3.69
+  },
+  {
+    "id": 480,
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 238,
+    "avgRating": 3.75
+  },
+  {
+    "id": 500,
+    "title": "Mrs. Doubtfire",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "ratingCount": 144,
+    "avgRating": 3.39
+  },
+  {
+    "id": 508,
+    "title": "Philadelphia",
+    "year": 1993,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 66,
+    "avgRating": 3.61
+  },
+  {
+    "id": 520,
+    "title": "Robin Hood: Men in Tights",
+    "year": 1993,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 69,
+    "avgRating": 3.13
+  },
+  {
+    "id": 527,
+    "title": "Schindler's List",
+    "year": 1993,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "ratingCount": 220,
+    "avgRating": 4.22
+  },
+  {
+    "id": 539,
+    "title": "Sleepless in Seattle",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 106,
+    "avgRating": 3.47
+  },
+  {
+    "id": 541,
+    "title": "Blade Runner",
+    "year": 1982,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 124,
+    "avgRating": 4.1
+  },
+  {
+    "id": 551,
+    "title": "Nightmare Before Christmas, The",
+    "year": 1993,
+    "genres": [
+      "Animation",
+      "Children",
+      "Fantasy",
+      "Musical"
+    ],
+    "ratingCount": 93,
+    "avgRating": 3.55
+  },
+  {
+    "id": 553,
+    "title": "Tombstone",
+    "year": 1993,
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "ratingCount": 65,
+    "avgRating": 3.82
+  },
+  {
+    "id": 555,
+    "title": "True Romance",
+    "year": 1993,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 65,
+    "avgRating": 3.8
+  },
+  {
+    "id": 586,
+    "title": "Home Alone",
+    "year": 1990,
+    "genres": [
+      "Children",
+      "Comedy"
+    ],
+    "ratingCount": 116,
+    "avgRating": 3
+  },
+  {
+    "id": 587,
+    "title": "Ghost",
+    "year": 1990,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Thriller"
+    ],
+    "ratingCount": 115,
+    "avgRating": 3.43
+  },
+  {
+    "id": 588,
+    "title": "Aladdin",
+    "year": 1992,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Musical"
+    ],
+    "ratingCount": 183,
+    "avgRating": 3.79
+  },
+  {
+    "id": 589,
+    "title": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "ratingCount": 224,
+    "avgRating": 3.97
+  },
+  {
+    "id": 590,
+    "title": "Dances with Wolves",
+    "year": 1990,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ],
+    "ratingCount": 164,
+    "avgRating": 3.84
+  },
+  {
+    "id": 592,
+    "title": "Batman",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 189,
+    "avgRating": 3.43
+  },
+  {
+    "id": 593,
+    "title": "Silence of the Lambs, The",
+    "year": 1991,
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "ratingCount": 279,
+    "avgRating": 4.16
+  },
+  {
+    "id": 594,
+    "title": "Snow White and the Seven Dwarfs",
+    "year": 1937,
+    "genres": [
+      "Animation",
+      "Children",
+      "Drama",
+      "Fantasy",
+      "Musical"
+    ],
+    "ratingCount": 77,
+    "avgRating": 3.62
+  },
+  {
+    "id": 595,
+    "title": "Beauty and the Beast",
+    "year": 1991,
+    "genres": [
+      "Animation",
+      "Children",
+      "Fantasy",
+      "Musical",
+      "Romance",
+      "IMAX"
+    ],
+    "ratingCount": 146,
+    "avgRating": 3.77
+  },
+  {
+    "id": 597,
+    "title": "Pretty Woman",
+    "year": 1990,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "ratingCount": 135,
+    "avgRating": 3.49
+  },
+  {
+    "id": 608,
+    "title": "Fargo",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 181,
+    "avgRating": 4.12
+  },
+  {
+    "id": 648,
+    "title": "Mission: Impossible",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 162,
+    "avgRating": 3.54
+  },
+  {
+    "id": 653,
+    "title": "Dragonheart",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "ratingCount": 65,
+    "avgRating": 3.09
+  },
+  {
+    "id": 733,
+    "title": "Rock, The",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "ratingCount": 121,
+    "avgRating": 3.64
+  },
+  {
+    "id": 736,
+    "title": "Twister",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance",
+      "Thriller"
+    ],
+    "ratingCount": 123,
+    "avgRating": 3.32
+  },
+  {
+    "id": 750,
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": 1964,
+    "genres": [
+      "Comedy",
+      "War"
+    ],
+    "ratingCount": 97,
+    "avgRating": 4.27
+  },
+  {
+    "id": 778,
+    "title": "Trainspotting",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 102,
+    "avgRating": 4.04
+  },
+  {
+    "id": 780,
+    "title": "Independence Day (a.k.a. ID4)",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 202,
+    "avgRating": 3.45
+  },
+  {
+    "id": 788,
+    "title": "Nutty Professor, The",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "ratingCount": 82,
+    "avgRating": 2.73
+  },
+  {
+    "id": 858,
+    "title": "Godfather, The",
+    "year": 1972,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 192,
+    "avgRating": 4.29
+  },
+  {
+    "id": 904,
+    "title": "Rear Window",
+    "year": 1954,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 84,
+    "avgRating": 4.26
+  },
+  {
+    "id": 912,
+    "title": "Casablanca",
+    "year": 1942,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 100,
+    "avgRating": 4.24
+  },
+  {
+    "id": 919,
+    "title": "Wizard of Oz, The",
+    "year": 1939,
+    "genres": [
+      "Adventure",
+      "Children",
+      "Fantasy",
+      "Musical"
+    ],
+    "ratingCount": 92,
+    "avgRating": 3.88
+  },
+  {
+    "id": 923,
+    "title": "Citizen Kane",
+    "year": 1941,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "ratingCount": 69,
+    "avgRating": 4.04
+  },
+  {
+    "id": 924,
+    "title": "2001: A Space Odyssey",
+    "year": 1968,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "ratingCount": 109,
+    "avgRating": 3.89
+  },
+  {
+    "id": 1028,
+    "title": "Mary Poppins",
+    "year": 1964,
+    "genres": [
+      "Children",
+      "Comedy",
+      "Fantasy",
+      "Musical"
+    ],
+    "ratingCount": 71,
+    "avgRating": 3.89
+  },
+  {
+    "id": 1035,
+    "title": "Sound of Music, The",
+    "year": 1965,
+    "genres": [
+      "Musical",
+      "Romance"
+    ],
+    "ratingCount": 64,
+    "avgRating": 3.94
+  },
+  {
+    "id": 1036,
+    "title": "Die Hard",
+    "year": 1988,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 145,
+    "avgRating": 3.86
+  },
+  {
+    "id": 1073,
+    "title": "Willy Wonka & the Chocolate Factory",
+    "year": 1971,
+    "genres": [
+      "Children",
+      "Comedy",
+      "Fantasy",
+      "Musical"
+    ],
+    "ratingCount": 119,
+    "avgRating": 3.87
+  },
+  {
+    "id": 1079,
+    "title": "Fish Called Wanda, A",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "ratingCount": 71,
+    "avgRating": 3.92
+  },
+  {
+    "id": 1080,
+    "title": "Monty Python's Life of Brian",
+    "year": 1979,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 89,
+    "avgRating": 3.93
+  },
+  {
+    "id": 1089,
+    "title": "Reservoir Dogs",
+    "year": 1992,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 131,
+    "avgRating": 4.2
+  },
+  {
+    "id": 1097,
+    "title": "E.T. the Extra-Terrestrial",
+    "year": 1982,
+    "genres": [
+      "Children",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "ratingCount": 122,
+    "avgRating": 3.77
+  },
+  {
+    "id": 1101,
+    "title": "Top Gun",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Romance"
+    ],
+    "ratingCount": 83,
+    "avgRating": 3.3
+  },
+  {
+    "id": 1136,
+    "title": "Monty Python and the Holy Grail",
+    "year": 1975,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "ratingCount": 136,
+    "avgRating": 4.16
+  },
+  {
+    "id": 1193,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 133,
+    "avgRating": 4.2
+  },
+  {
+    "id": 1196,
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "ratingCount": 211,
+    "avgRating": 4.22
+  },
+  {
+    "id": 1197,
+    "title": "Princess Bride, The",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "ratingCount": 142,
+    "avgRating": 4.23
+  },
+  {
+    "id": 1198,
+    "title": "Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark)",
+    "year": 1981,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "ratingCount": 200,
+    "avgRating": 4.21
+  },
+  {
+    "id": 1200,
+    "title": "Aliens",
+    "year": 1986,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "ratingCount": 126,
+    "avgRating": 3.96
+  },
+  {
+    "id": 1201,
+    "title": "Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il)",
+    "year": 1966,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Western"
+    ],
+    "ratingCount": 72,
+    "avgRating": 4.15
+  },
+  {
+    "id": 1206,
+    "title": "Clockwork Orange, A",
+    "year": 1971,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 120,
+    "avgRating": 4
+  },
+  {
+    "id": 1208,
+    "title": "Apocalypse Now",
+    "year": 1979,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "ratingCount": 107,
+    "avgRating": 4.22
+  },
+  {
+    "id": 1210,
+    "title": "Star Wars: Episode VI - Return of the Jedi",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "ratingCount": 196,
+    "avgRating": 4.14
+  },
+  {
+    "id": 1213,
+    "title": "Goodfellas",
+    "year": 1990,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 126,
+    "avgRating": 4.25
+  },
+  {
+    "id": 1214,
+    "title": "Alien",
+    "year": 1979,
+    "genres": [
+      "Horror",
+      "Sci-Fi"
+    ],
+    "ratingCount": 146,
+    "avgRating": 3.97
+  },
+  {
+    "id": 1219,
+    "title": "Psycho",
+    "year": 1960,
+    "genres": [
+      "Crime",
+      "Horror"
+    ],
+    "ratingCount": 83,
+    "avgRating": 4.04
+  },
+  {
+    "id": 1220,
+    "title": "Blues Brothers, The",
+    "year": 1980,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Musical"
+    ],
+    "ratingCount": 84,
+    "avgRating": 3.81
+  },
+  {
+    "id": 1221,
+    "title": "Godfather: Part II, The",
+    "year": 1974,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 129,
+    "avgRating": 4.26
+  },
+  {
+    "id": 1222,
+    "title": "Full Metal Jacket",
+    "year": 1987,
+    "genres": [
+      "Drama",
+      "War"
+    ],
+    "ratingCount": 102,
+    "avgRating": 4.1
+  },
+  {
+    "id": 1225,
+    "title": "Amadeus",
+    "year": 1984,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 76,
+    "avgRating": 4.18
+  },
+  {
+    "id": 1234,
+    "title": "Sting, The",
+    "year": 1973,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "ratingCount": 64,
+    "avgRating": 3.98
+  },
+  {
+    "id": 1240,
+    "title": "Terminator, The",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 131,
+    "avgRating": 3.9
+  },
+  {
+    "id": 1246,
+    "title": "Dead Poets Society",
+    "year": 1989,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 86,
+    "avgRating": 3.96
+  },
+  {
+    "id": 1247,
+    "title": "Graduate, The",
+    "year": 1967,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 79,
+    "avgRating": 4.06
+  },
+  {
+    "id": 1258,
+    "title": "Shining, The",
+    "year": 1980,
+    "genres": [
+      "Horror"
+    ],
+    "ratingCount": 109,
+    "avgRating": 4.08
+  },
+  {
+    "id": 1259,
+    "title": "Stand by Me",
+    "year": 1986,
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "ratingCount": 91,
+    "avgRating": 4.01
+  },
+  {
+    "id": 1265,
+    "title": "Groundhog Day",
+    "year": 1993,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "ratingCount": 143,
+    "avgRating": 3.94
+  },
+  {
+    "id": 1270,
+    "title": "Back to the Future",
+    "year": 1985,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "ratingCount": 171,
+    "avgRating": 4.04
+  },
+  {
+    "id": 1278,
+    "title": "Young Frankenstein",
+    "year": 1974,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "ratingCount": 69,
+    "avgRating": 3.99
+  },
+  {
+    "id": 1288,
+    "title": "This Is Spinal Tap",
+    "year": 1984,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 66,
+    "avgRating": 4.02
+  },
+  {
+    "id": 1291,
+    "title": "Indiana Jones and the Last Crusade",
+    "year": 1989,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "ratingCount": 140,
+    "avgRating": 4.05
+  },
+  {
+    "id": 1307,
+    "title": "When Harry Met Sally...",
+    "year": 1989,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "ratingCount": 85,
+    "avgRating": 3.86
+  },
+  {
+    "id": 1356,
+    "title": "Star Trek: First Contact",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 91,
+    "avgRating": 3.88
+  },
+  {
+    "id": 1370,
+    "title": "Die Hard 2",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "ratingCount": 68,
+    "avgRating": 3.4
+  },
+  {
+    "id": 1380,
+    "title": "Grease",
+    "year": 1978,
+    "genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "ratingCount": 68,
+    "avgRating": 3.14
+  },
+  {
+    "id": 1387,
+    "title": "Jaws",
+    "year": 1975,
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "ratingCount": 91,
+    "avgRating": 4.01
+  },
+  {
+    "id": 1391,
+    "title": "Mars Attacks!",
+    "year": 1996,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "ratingCount": 86,
+    "avgRating": 3.09
+  },
+  {
+    "id": 1393,
+    "title": "Jerry Maguire",
+    "year": 1996,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 85,
+    "avgRating": 3.59
+  },
+  {
+    "id": 1407,
+    "title": "Scream",
+    "year": 1996,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 70,
+    "avgRating": 3.2
+  },
+  {
+    "id": 1485,
+    "title": "Liar Liar",
+    "year": 1997,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 74,
+    "avgRating": 3.03
+  },
+  {
+    "id": 1517,
+    "title": "Austin Powers: International Man of Mystery",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "ratingCount": 100,
+    "avgRating": 3.54
+  },
+  {
+    "id": 1527,
+    "title": "Fifth Element, The",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "ratingCount": 116,
+    "avgRating": 3.75
+  },
+  {
+    "id": 1544,
+    "title": "Lost World: Jurassic Park, The",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 67,
+    "avgRating": 2.75
+  },
+  {
+    "id": 1573,
+    "title": "Face/Off",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 77,
+    "avgRating": 3.37
+  },
+  {
+    "id": 1580,
+    "title": "Men in Black (a.k.a. MIB)",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "ratingCount": 165,
+    "avgRating": 3.49
+  },
+  {
+    "id": 1584,
+    "title": "Contact",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "ratingCount": 82,
+    "avgRating": 3.65
+  },
+  {
+    "id": 1610,
+    "title": "Hunt for Red October, The",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "ratingCount": 90,
+    "avgRating": 3.87
+  },
+  {
+    "id": 1617,
+    "title": "L.A. Confidential",
+    "year": 1997,
+    "genres": [
+      "Crime",
+      "Film-Noir",
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 97,
+    "avgRating": 4.06
+  },
+  {
+    "id": 1625,
+    "title": "Game, The",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 77,
+    "avgRating": 3.7
+  },
+  {
+    "id": 1653,
+    "title": "Gattaca",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 86,
+    "avgRating": 3.95
+  },
+  {
+    "id": 1676,
+    "title": "Starship Troopers",
+    "year": 1997,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "ratingCount": 80,
+    "avgRating": 3.33
+  },
+  {
+    "id": 1682,
+    "title": "Truman Show, The",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "ratingCount": 125,
+    "avgRating": 3.81
+  },
+  {
+    "id": 1704,
+    "title": "Good Will Hunting",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 141,
+    "avgRating": 4.08
+  },
+  {
+    "id": 1721,
+    "title": "Titanic",
+    "year": 1997,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 140,
+    "avgRating": 3.41
+  },
+  {
+    "id": 1732,
+    "title": "Big Lebowski, The",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "ratingCount": 106,
+    "avgRating": 3.92
+  },
+  {
+    "id": 1784,
+    "title": "As Good as It Gets",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 96,
+    "avgRating": 3.7
+  },
+  {
+    "id": 1917,
+    "title": "Armageddon",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Romance",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 92,
+    "avgRating": 3.05
+  },
+  {
+    "id": 1923,
+    "title": "There's Something About Mary",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "ratingCount": 105,
+    "avgRating": 3.68
+  },
+  {
+    "id": 1954,
+    "title": "Rocky",
+    "year": 1976,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 64,
+    "avgRating": 3.83
+  },
+  {
+    "id": 1961,
+    "title": "Rain Man",
+    "year": 1988,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 96,
+    "avgRating": 3.81
+  },
+  {
+    "id": 1968,
+    "title": "Breakfast Club, The",
+    "year": 1985,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "ratingCount": 113,
+    "avgRating": 3.78
+  },
+  {
+    "id": 2000,
+    "title": "Lethal Weapon",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 75,
+    "avgRating": 3.67
+  },
+  {
+    "id": 2011,
+    "title": "Back to the Future Part II",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "ratingCount": 87,
+    "avgRating": 3.51
+  },
+  {
+    "id": 2012,
+    "title": "Back to the Future Part III",
+    "year": 1990,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi",
+      "Western"
+    ],
+    "ratingCount": 88,
+    "avgRating": 3.37
+  },
+  {
+    "id": 2028,
+    "title": "Saving Private Ryan",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "ratingCount": 188,
+    "avgRating": 4.15
+  },
+  {
+    "id": 2054,
+    "title": "Honey, I Shrunk the Kids",
+    "year": 1989,
+    "genres": [
+      "Adventure",
+      "Children",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "ratingCount": 68,
+    "avgRating": 2.76
+  },
+  {
+    "id": 2081,
+    "title": "Little Mermaid, The",
+    "year": 1989,
+    "genres": [
+      "Animation",
+      "Children",
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "ratingCount": 67,
+    "avgRating": 3.43
+  },
+  {
+    "id": 2115,
+    "title": "Indiana Jones and the Temple of Doom",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "ratingCount": 108,
+    "avgRating": 3.64
+  },
+  {
+    "id": 2174,
+    "title": "Beetlejuice",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "ratingCount": 91,
+    "avgRating": 3.47
+  },
+  {
+    "id": 2194,
+    "title": "Untouchables, The",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 65,
+    "avgRating": 3.94
+  },
+  {
+    "id": 2291,
+    "title": "Edward Scissorhands",
+    "year": 1990,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "ratingCount": 80,
+    "avgRating": 3.7
+  },
+  {
+    "id": 2324,
+    "title": "Life Is Beautiful (La Vita è bella)",
+    "year": 1997,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "ratingCount": 88,
+    "avgRating": 4.15
+  },
+  {
+    "id": 2329,
+    "title": "American History X",
+    "year": 1998,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 129,
+    "avgRating": 4.22
+  },
+  {
+    "id": 2353,
+    "title": "Enemy of the State",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "ratingCount": 67,
+    "avgRating": 3.49
+  },
+  {
+    "id": 2355,
+    "title": "Bug's Life, A",
+    "year": 1998,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy"
+    ],
+    "ratingCount": 92,
+    "avgRating": 3.52
+  },
+  {
+    "id": 2396,
+    "title": "Shakespeare in Love",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 92,
+    "avgRating": 3.78
+  },
+  {
+    "id": 2502,
+    "title": "Office Space",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "ratingCount": 94,
+    "avgRating": 4.09
+  },
+  {
+    "id": 2542,
+    "title": "Lock, Stock & Two Smoking Barrels",
+    "year": 1998,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 67,
+    "avgRating": 4.05
+  },
+  {
+    "id": 2571,
+    "title": "Matrix, The",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 278,
+    "avgRating": 4.19
+  },
+  {
+    "id": 2617,
+    "title": "Mummy, The",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "ratingCount": 87,
+    "avgRating": 3.12
+  },
+  {
+    "id": 2628,
+    "title": "Star Wars: Episode I - The Phantom Menace",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "ratingCount": 140,
+    "avgRating": 3.11
+  },
+  {
+    "id": 2683,
+    "title": "Austin Powers: The Spy Who Shagged Me",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "ratingCount": 121,
+    "avgRating": 3.2
+  },
+  {
+    "id": 2692,
+    "title": "Run Lola Run (Lola rennt)",
+    "year": 1998,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "ratingCount": 75,
+    "avgRating": 4
+  },
+  {
+    "id": 2700,
+    "title": "South Park: Bigger, Longer and Uncut",
+    "year": 1999,
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Musical"
+    ],
+    "ratingCount": 76,
+    "avgRating": 3.86
+  },
+  {
+    "id": 2706,
+    "title": "American Pie",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "ratingCount": 103,
+    "avgRating": 3.38
+  },
+  {
+    "id": 2710,
+    "title": "Blair Witch Project, The",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Thriller"
+    ],
+    "ratingCount": 64,
+    "avgRating": 2.8
+  },
+  {
+    "id": 2716,
+    "title": "Ghostbusters (a.k.a. Ghost Busters)",
+    "year": 1984,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "ratingCount": 120,
+    "avgRating": 3.77
+  },
+  {
+    "id": 2762,
+    "title": "Sixth Sense, The",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "ratingCount": 179,
+    "avgRating": 3.89
+  },
+  {
+    "id": 2791,
+    "title": "Airplane!",
+    "year": 1980,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 87,
+    "avgRating": 3.86
+  },
+  {
+    "id": 2797,
+    "title": "Big",
+    "year": 1988,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "ratingCount": 91,
+    "avgRating": 3.72
+  },
+  {
+    "id": 2858,
+    "title": "American Beauty",
+    "year": 1999,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 204,
+    "avgRating": 4.06
+  },
+  {
+    "id": 2916,
+    "title": "Total Recall",
+    "year": 1990,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 88,
+    "avgRating": 3.65
+  },
+  {
+    "id": 2918,
+    "title": "Ferris Bueller's Day Off",
+    "year": 1986,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 109,
+    "avgRating": 3.84
+  },
+  {
+    "id": 2959,
+    "title": "Fight Club",
+    "year": 1999,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 218,
+    "avgRating": 4.27
+  },
+  {
+    "id": 2985,
+    "title": "RoboCop",
+    "year": 1987,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 70,
+    "avgRating": 3.37
+  },
+  {
+    "id": 2987,
+    "title": "Who Framed Roger Rabbit?",
+    "year": 1988,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Crime",
+      "Fantasy",
+      "Mystery"
+    ],
+    "ratingCount": 97,
+    "avgRating": 3.57
+  },
+  {
+    "id": 2997,
+    "title": "Being John Malkovich",
+    "year": 1999,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "ratingCount": 99,
+    "avgRating": 3.95
+  },
+  {
+    "id": 3052,
+    "title": "Dogma",
+    "year": 1999,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "ratingCount": 79,
+    "avgRating": 3.65
+  },
+  {
+    "id": 3114,
+    "title": "Toy Story 2",
+    "year": 1999,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Fantasy"
+    ],
+    "ratingCount": 97,
+    "avgRating": 3.86
+  },
+  {
+    "id": 3147,
+    "title": "Green Mile, The",
+    "year": 1999,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 111,
+    "avgRating": 4.15
+  },
+  {
+    "id": 3175,
+    "title": "Galaxy Quest",
+    "year": 1999,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "ratingCount": 75,
+    "avgRating": 3.58
+  },
+  {
+    "id": 3408,
+    "title": "Erin Brockovich",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 70,
+    "avgRating": 3.53
+  },
+  {
+    "id": 3481,
+    "title": "High Fidelity",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 75,
+    "avgRating": 3.67
+  },
+  {
+    "id": 3578,
+    "title": "Gladiator",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "ratingCount": 170,
+    "avgRating": 3.94
+  },
+  {
+    "id": 3623,
+    "title": "Mission: Impossible II",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "ratingCount": 77,
+    "avgRating": 2.71
+  },
+  {
+    "id": 3751,
+    "title": "Chicken Run",
+    "year": 2000,
+    "genres": [
+      "Animation",
+      "Children",
+      "Comedy"
+    ],
+    "ratingCount": 78,
+    "avgRating": 3.55
+  },
+  {
+    "id": 3753,
+    "title": "Patriot, The",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "ratingCount": 68,
+    "avgRating": 3.45
+  },
+  {
+    "id": 3793,
+    "title": "X-Men",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "ratingCount": 133,
+    "avgRating": 3.7
+  },
+  {
+    "id": 3897,
+    "title": "Almost Famous",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 83,
+    "avgRating": 3.87
+  },
+  {
+    "id": 3948,
+    "title": "Meet the Parents",
+    "year": 2000,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 91,
+    "avgRating": 3.42
+  },
+  {
+    "id": 3949,
+    "title": "Requiem for a Dream",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 96,
+    "avgRating": 3.92
+  },
+  {
+    "id": 3977,
+    "title": "Charlie's Angels",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "ratingCount": 72,
+    "avgRating": 2.72
+  },
+  {
+    "id": 3994,
+    "title": "Unbreakable",
+    "year": 2000,
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "ratingCount": 73,
+    "avgRating": 3.48
+  },
+  {
+    "id": 3996,
+    "title": "Crouching Tiger, Hidden Dragon (Wo hu cang long)",
+    "year": 2000,
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 110,
+    "avgRating": 3.84
+  },
+  {
+    "id": 4011,
+    "title": "Snatch",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 93,
+    "avgRating": 4.16
+  },
+  {
+    "id": 4022,
+    "title": "Cast Away",
+    "year": 2000,
+    "genres": [
+      "Drama"
+    ],
+    "ratingCount": 100,
+    "avgRating": 3.7
+  },
+  {
+    "id": 4025,
+    "title": "Miss Congeniality",
+    "year": 2000,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "ratingCount": 64,
+    "avgRating": 3.05
+  },
+  {
+    "id": 4027,
+    "title": "O Brother, Where Art Thou?",
+    "year": 2000,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ],
+    "ratingCount": 94,
+    "avgRating": 3.81
+  },
+  {
+    "id": 4034,
+    "title": "Traffic",
+    "year": 2000,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 70,
+    "avgRating": 3.9
+  },
+  {
+    "id": 4226,
+    "title": "Memento",
+    "year": 2000,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 159,
+    "avgRating": 4.12
+  },
+  {
+    "id": 4246,
+    "title": "Bridget Jones's Diary",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 65,
+    "avgRating": 3.62
+  },
+  {
+    "id": 4262,
+    "title": "Scarface",
+    "year": 1983,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 67,
+    "avgRating": 3.93
+  },
+  {
+    "id": 4306,
+    "title": "Shrek",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "ratingCount": 170,
+    "avgRating": 3.87
+  },
+  {
+    "id": 4447,
+    "title": "Legally Blonde",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "ratingCount": 64,
+    "avgRating": 3.16
+  },
+  {
+    "id": 4878,
+    "title": "Donnie Darko",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 109,
+    "avgRating": 3.98
+  },
+  {
+    "id": 4886,
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Fantasy"
+    ],
+    "ratingCount": 132,
+    "avgRating": 3.87
+  },
+  {
+    "id": 4896,
+    "title": "Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone)",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Children",
+      "Fantasy"
+    ],
+    "ratingCount": 107,
+    "avgRating": 3.76
+  },
+  {
+    "id": 4963,
+    "title": "Ocean's Eleven",
+    "year": 2001,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 119,
+    "avgRating": 3.84
+  },
+  {
+    "id": 4973,
+    "title": "Amelie (Fabuleux destin d'Amélie Poulain, Le)",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "ratingCount": 120,
+    "avgRating": 4.18
+  },
+  {
+    "id": 4979,
+    "title": "Royal Tenenbaums, The",
+    "year": 2001,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "ratingCount": 68,
+    "avgRating": 3.68
+  },
+  {
+    "id": 4993,
+    "title": "Lord of the Rings: The Fellowship of the Ring, The",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "ratingCount": 198,
+    "avgRating": 4.11
+  },
+  {
+    "id": 4995,
+    "title": "Beautiful Mind, A",
+    "year": 2001,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 123,
+    "avgRating": 4
+  },
+  {
+    "id": 5218,
+    "title": "Ice Age",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy"
+    ],
+    "ratingCount": 85,
+    "avgRating": 3.69
+  },
+  {
+    "id": 5349,
+    "title": "Spider-Man",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 122,
+    "avgRating": 3.54
+  },
+  {
+    "id": 5378,
+    "title": "Star Wars: Episode II - Attack of the Clones",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "IMAX"
+    ],
+    "ratingCount": 92,
+    "avgRating": 3.16
+  },
+  {
+    "id": 5418,
+    "title": "Bourne Identity, The",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 112,
+    "avgRating": 3.82
+  },
+  {
+    "id": 5445,
+    "title": "Minority Report",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 120,
+    "avgRating": 3.64
+  },
+  {
+    "id": 5481,
+    "title": "Austin Powers in Goldmember",
+    "year": 2002,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 65,
+    "avgRating": 2.85
+  },
+  {
+    "id": 5618,
+    "title": "Spirited Away (Sen to Chihiro no kamikakushi)",
+    "year": 2001,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Fantasy"
+    ],
+    "ratingCount": 87,
+    "avgRating": 4.16
+  },
+  {
+    "id": 5816,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "ratingCount": 102,
+    "avgRating": 3.6
+  },
+  {
+    "id": 5952,
+    "title": "Lord of the Rings: The Two Towers, The",
+    "year": 2002,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "ratingCount": 188,
+    "avgRating": 4.02
+  },
+  {
+    "id": 5989,
+    "title": "Catch Me If You Can",
+    "year": 2002,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "ratingCount": 115,
+    "avgRating": 3.92
+  },
+  {
+    "id": 6016,
+    "title": "City of God (Cidade de Deus)",
+    "year": 2002,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 75,
+    "avgRating": 4.15
+  },
+  {
+    "id": 6333,
+    "title": "X2: X-Men United",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 76,
+    "avgRating": 3.72
+  },
+  {
+    "id": 6365,
+    "title": "Matrix Reloaded, The",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller",
+      "IMAX"
+    ],
+    "ratingCount": 96,
+    "avgRating": 3.35
+  },
+  {
+    "id": 6373,
+    "title": "Bruce Almighty",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "ratingCount": 71,
+    "avgRating": 3.32
+  },
+  {
+    "id": 6377,
+    "title": "Finding Nemo",
+    "year": 2003,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy"
+    ],
+    "ratingCount": 141,
+    "avgRating": 3.96
+  },
+  {
+    "id": 6539,
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "ratingCount": 149,
+    "avgRating": 3.78
+  },
+  {
+    "id": 6711,
+    "title": "Lost in Translation",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 74,
+    "avgRating": 4.03
+  },
+  {
+    "id": 6863,
+    "title": "School of Rock",
+    "year": 2003,
+    "genres": [
+      "Comedy",
+      "Musical"
+    ],
+    "ratingCount": 66,
+    "avgRating": 3.4
+  },
+  {
+    "id": 6874,
+    "title": "Kill Bill: Vol. 1",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 131,
+    "avgRating": 3.96
+  },
+  {
+    "id": 6934,
+    "title": "Matrix Revolutions, The",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Thriller",
+      "IMAX"
+    ],
+    "ratingCount": 79,
+    "avgRating": 3.15
+  },
+  {
+    "id": 7147,
+    "title": "Big Fish",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "ratingCount": 69,
+    "avgRating": 3.83
+  },
+  {
+    "id": 7153,
+    "title": "Lord of the Rings: The Return of the King, The",
+    "year": 2003,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "ratingCount": 185,
+    "avgRating": 4.12
+  },
+  {
+    "id": 7361,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "ratingCount": 131,
+    "avgRating": 4.16
+  },
+  {
+    "id": 7438,
+    "title": "Kill Bill: Vol. 2",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 110,
+    "avgRating": 3.87
+  },
+  {
+    "id": 8360,
+    "title": "Shrek 2",
+    "year": 2004,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy",
+      "Musical",
+      "Romance"
+    ],
+    "ratingCount": 92,
+    "avgRating": 3.58
+  },
+  {
+    "id": 8368,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": 2004,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "IMAX"
+    ],
+    "ratingCount": 93,
+    "avgRating": 3.91
+  },
+  {
+    "id": 8636,
+    "title": "Spider-Man 2",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "IMAX"
+    ],
+    "ratingCount": 79,
+    "avgRating": 3.8
+  },
+  {
+    "id": 8665,
+    "title": "Bourne Supremacy, The",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 75,
+    "avgRating": 3.79
+  },
+  {
+    "id": 8874,
+    "title": "Shaun of the Dead",
+    "year": 2004,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "ratingCount": 77,
+    "avgRating": 4.01
+  },
+  {
+    "id": 8961,
+    "title": "Incredibles, The",
+    "year": 2004,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Children",
+      "Comedy"
+    ],
+    "ratingCount": 125,
+    "avgRating": 3.84
+  },
+  {
+    "id": 32587,
+    "title": "Sin City",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Crime",
+      "Film-Noir",
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 84,
+    "avgRating": 3.86
+  },
+  {
+    "id": 33493,
+    "title": "Star Wars: Episode III - Revenge of the Sith",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "ratingCount": 78,
+    "avgRating": 3.43
+  },
+  {
+    "id": 33794,
+    "title": "Batman Begins",
+    "year": 2005,
+    "genres": [
+      "Action",
+      "Crime",
+      "IMAX"
+    ],
+    "ratingCount": 116,
+    "avgRating": 3.86
+  },
+  {
+    "id": 35836,
+    "title": "40-Year-Old Virgin, The",
+    "year": 2005,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "ratingCount": 74,
+    "avgRating": 3.55
+  },
+  {
+    "id": 40815,
+    "title": "Harry Potter and the Goblet of Fire",
+    "year": 2005,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Thriller",
+      "IMAX"
+    ],
+    "ratingCount": 71,
+    "avgRating": 3.82
+  },
+  {
+    "id": 44191,
+    "title": "V for Vendetta",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller",
+      "IMAX"
+    ],
+    "ratingCount": 100,
+    "avgRating": 3.88
+  },
+  {
+    "id": 45722,
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "ratingCount": 72,
+    "avgRating": 3.51
+  },
+  {
+    "id": 46578,
+    "title": "Little Miss Sunshine",
+    "year": 2006,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "ratingCount": 77,
+    "avgRating": 3.88
+  },
+  {
+    "id": 48385,
+    "title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+    "year": 2006,
+    "genres": [
+      "Comedy"
+    ],
+    "ratingCount": 65,
+    "avgRating": 3.35
+  },
+  {
+    "id": 48394,
+    "title": "Pan's Labyrinth (Laberinto del fauno, El)",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Thriller"
+    ],
+    "ratingCount": 81,
+    "avgRating": 3.81
+  },
+  {
+    "id": 48516,
+    "title": "Departed, The",
+    "year": 2006,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "ratingCount": 107,
+    "avgRating": 4.25
+  },
+  {
+    "id": 48774,
+    "title": "Children of Men",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 64,
+    "avgRating": 3.95
+  },
+  {
+    "id": 48780,
+    "title": "Prestige, The",
+    "year": 2006,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 90,
+    "avgRating": 4.01
+  },
+  {
+    "id": 49272,
+    "title": "Casino Royale",
+    "year": 2006,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "ratingCount": 81,
+    "avgRating": 3.94
+  },
+  {
+    "id": 50872,
+    "title": "Ratatouille",
+    "year": 2007,
+    "genres": [
+      "Animation",
+      "Children",
+      "Drama"
+    ],
+    "ratingCount": 72,
+    "avgRating": 3.87
+  },
+  {
+    "id": 51662,
+    "title": "300",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "War",
+      "IMAX"
+    ],
+    "ratingCount": 80,
+    "avgRating": 3.68
+  },
+  {
+    "id": 54286,
+    "title": "Bourne Ultimatum, The",
+    "year": 2007,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "ratingCount": 81,
+    "avgRating": 3.7
+  },
+  {
+    "id": 56367,
+    "title": "Juno",
+    "year": 2007,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 65,
+    "avgRating": 3.77
+  },
+  {
+    "id": 58559,
+    "title": "Dark Knight, The",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "IMAX"
+    ],
+    "ratingCount": 149,
+    "avgRating": 4.24
+  },
+  {
+    "id": 59315,
+    "title": "Iron Man",
+    "year": 2008,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "ratingCount": 94,
+    "avgRating": 3.82
+  },
+  {
+    "id": 60069,
+    "title": "WALL·E",
+    "year": 2008,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "ratingCount": 104,
+    "avgRating": 4.06
+  },
+  {
+    "id": 63082,
+    "title": "Slumdog Millionaire",
+    "year": 2008,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Romance"
+    ],
+    "ratingCount": 71,
+    "avgRating": 3.81
+  },
+  {
+    "id": 68157,
+    "title": "Inglourious Basterds",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "ratingCount": 88,
+    "avgRating": 4.14
+  },
+  {
+    "id": 68954,
+    "title": "Up",
+    "year": 2009,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Children",
+      "Drama"
+    ],
+    "ratingCount": 105,
+    "avgRating": 4
+  },
+  {
+    "id": 69122,
+    "title": "Hangover, The",
+    "year": 2009,
+    "genres": [
+      "Comedy",
+      "Crime"
+    ],
+    "ratingCount": 76,
+    "avgRating": 3.63
+  },
+  {
+    "id": 70286,
+    "title": "District 9",
+    "year": 2009,
+    "genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "ratingCount": 65,
+    "avgRating": 3.78
+  },
+  {
+    "id": 72998,
+    "title": "Avatar",
+    "year": 2009,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "IMAX"
+    ],
+    "ratingCount": 97,
+    "avgRating": 3.6
+  },
+  {
+    "id": 74458,
+    "title": "Shutter Island",
+    "year": 2010,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ],
+    "ratingCount": 67,
+    "avgRating": 4.02
+  },
+  {
+    "id": 79132,
+    "title": "Inception",
+    "year": 2010,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller",
+      "IMAX"
+    ],
+    "ratingCount": 143,
+    "avgRating": 4.07
+  },
+  {
+    "id": 89745,
+    "title": "Avengers, The",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "IMAX"
+    ],
+    "ratingCount": 69,
+    "avgRating": 3.87
+  },
+  {
+    "id": 91529,
+    "title": "Dark Knight Rises, The",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Crime",
+      "IMAX"
+    ],
+    "ratingCount": 76,
+    "avgRating": 3.99
+  },
+  {
+    "id": 99114,
+    "title": "Django Unchained",
+    "year": 2012,
+    "genres": [
+      "Action",
+      "Drama",
+      "Western"
+    ],
+    "ratingCount": 71,
+    "avgRating": 3.94
+  },
+  {
+    "id": 109487,
+    "title": "Interstellar",
+    "year": 2014,
+    "genres": [
+      "Sci-Fi",
+      "IMAX"
+    ],
+    "ratingCount": 73,
+    "avgRating": 3.99
+  }
+]

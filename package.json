@@ -1,0 +1,9 @@
+{
+    "name": "movie-recommendations",
+    "version": "1.0.0",
+    "description": "Recomendacao de filmes com TensorFlow.js e ChromaDB",
+    "type": "module",
+    "scripts": {
+        "prepare-data": "node scripts/prepare-data.js"
+    }
+}
