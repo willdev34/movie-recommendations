@@ -110,3 +110,20 @@ function shuffleTogether(inputs, labels) {
         [labels[i], labels[j]] = [labels[j], labels[i]];
     }
 }
+
+// Monta o perfil FINAL de um usuario: a media dos vetores dos filmes que ele gostou.
+// E o vetor que fica salvo no banco e e usado para achar usuarios parecidos.
+// movieVectors e um Map de id do filme para vetor do filme.
+// Se o usuario nao gostou de nada, devolve vetor zerado.
+export function buildUserProfile(user, movieVectors, context) {
+    const liked = user.ratings.filter(
+        r => r.rating >= LIKE_THRESHOLD && movieVectors.has(r.movieId)
+    );
+    const profile = new Array(context.dimensions).fill(0);
+    if (!liked.length) return profile;
+
+    liked.forEach(r => {
+        movieVectors.get(r.movieId).forEach((value, i) => { profile[i] += value; });
+    });
+    return profile.map(value => value / liked.length);
+}

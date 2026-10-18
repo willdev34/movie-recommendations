@@ -6,7 +6,8 @@
     "scripts": {
         "prepare-data": "node scripts/prepare-data.js",
         "start": "browser-sync start --server --watch --port 3000",
-        "server": "node server/index.js"
+        "server": "node server/index.js",
+        "index-vectors": "node server/indexVectors.js"
     },
     "devDependencies": {
         "browser-sync": "^3.0.4"

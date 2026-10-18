@@ -8,3 +8,21 @@ const client = new ChromaClient({ host: 'localhost', port: 8000 });
 export async function pingChroma() {
     return client.heartbeat();
 }
+
+// Devolve uma colecao vazia com esse nome (colecao e como uma "tabela" de vetores).
+// Se ja existir, apaga e cria de novo, assim rodar o script duas vezes nao duplica nada.
+// Usa distancia por cosseno: mede o angulo entre vetores, ou seja, o quanto
+// duas pessoas gostam das mesmas COISAS, sem depender da intensidade dos numeros.
+// embeddingFunction: null porque os vetores sao nossos, o Chroma nao precisa gerar.
+export async function resetCollection(name) {
+    try {
+        await client.deleteCollection({ name });
+    } catch {
+        // nao existia ainda, tudo bem
+    }
+    return client.createCollection({
+        name,
+        embeddingFunction: null,
+        configuration: { hnsw: { space: 'cosine' } }
+    });
+}
